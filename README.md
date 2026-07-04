@@ -4,7 +4,6 @@
 - 🌱 Cursando Engenharia da Computação pela IFRJ
 - 😄 Pronouns: ele/dele
 
-##
 
 <p align="center">
   <!-- Card de Status Minimalista e Moderno -->
@@ -16,7 +15,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GH0ST-XX&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
